@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'A Primer on Workflow Executions'
+title: 'Activitity2: Workflows'
 order: 2
 usemathjax: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activity 1: Running Your First Simulated Workflow Execution'
+title: 'Activity 3: Data Locality'
 order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activity 1: Networking'
+title: 'Module 1: Networking'
 order: 1
 usemathjax: true
 ---

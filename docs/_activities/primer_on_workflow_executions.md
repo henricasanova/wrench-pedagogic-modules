@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activitity 2: Workflows'
+title: 'Module 2: Workflows'
 order: 2
 usemathjax: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activity 4: Parallelism'
+title: 'Module 4: Parallelism'
 order: 4
 usemathjax: true
 ---

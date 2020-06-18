@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activity 5: Resource Provisioning'
+title: 'Module 5: Resource Provisioning'
 order: 5
 ---
 

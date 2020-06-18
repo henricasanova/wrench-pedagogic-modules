@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Activity 3: Data Locality'
+title: 'Module 3: Data Locality'
 order: 3
 ---
 
